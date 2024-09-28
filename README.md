@@ -1,8 +1,10 @@
-![logo](https://github.com/khushii-23/khushii-23/blob/main/Pixel%20BG%20-%20Apartment%20_%20Kerotheraphy%5B18%2B%5D.gif)
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=30&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khushi+Bhakar;A+Passionate+Web+Developer" alt="Typing SVG">
 </h1>
+
+<p align="center">
+  <img src="https://github.com/khushii-23/khushii-23/blob/main/Pixel%20BG%20-%20Apartment%20_%20Kerotheraphy%5B18%2B%5D.gif" alt="Logo">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khushii-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
