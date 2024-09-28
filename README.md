@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Bhakar</h1>
+![logo](https://github.com/khushii-23/khushii-23/blob/main/naruto-background.gif)
 <h3 align="center">A passionate Website Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushii-23&label=Profile%20views&color=0e75b6&style=flat" alt="khushii-23" /> </p>
