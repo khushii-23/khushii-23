@@ -1,4 +1,4 @@
-<img src="https://github.com/khushii-23/khushii-23/blob/main/naruto-background.gif" style="width:100%;" alt="logo" />
+![logo](https://github.com/khushii-23/khushii-23/blob/main/Pixel%20BG%20-%20Apartment%20_%20Kerotheraphy%5B18%2B%5D.gif)
 <h1 align="center">Hi 👋, I'm Khushi Bhakar</h1>
 <h3 align="center">A passionate Website Developer from India</h3>
 
