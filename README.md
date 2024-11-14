@@ -35,7 +35,6 @@ All of my projects are available at:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khushi-bhakar-a9a485309/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/_khushi_bhakar/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://discord.gg/casual_khush_35606" target="blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord"/></a>
 </p>
 
