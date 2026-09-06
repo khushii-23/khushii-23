@@ -70,6 +70,3 @@ All of my projects are available at:
 Reach me via email: **ch.khushi826@gmail.com**
 
 --- 
-
-### 📄 Resume  
-Check out my experiences [here](https://www.canva.com/design/DAGFA6TTHJw/zq35RgeF3J57um97JNuPeQ/edit?utm_content=DAGFA6TTHJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
